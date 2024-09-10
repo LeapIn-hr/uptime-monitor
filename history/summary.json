@@ -1,7 +1,7 @@
 [
   {
     "name": "Leap (Staging)",
-    "url": "https://leap.staging.api.leapin.co",
+    "url": "https://leap.staging.api.leapin.co/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/leap.staging.api.leapin.co.ico",
     "slug": "leap-staging",
     "status": "up",
@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 681,
-    "timeDay": 681,
-    "timeWeek": 681,
-    "timeMonth": 681,
-    "timeYear": 681,
+    "time": 696,
+    "timeDay": 696,
+    "timeWeek": 696,
+    "timeMonth": 696,
+    "timeYear": 696,
     "dailyMinutesDown": {}
   },
   {
     "name": "Leap (Production)",
-    "url": "https://leap.production.api.leapin.co",
+    "url": "https://leap.production.api.leapin.co/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/leap.production.api.leapin.co.ico",
     "slug": "leap-production",
     "status": "up",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 632,
-    "timeDay": 632,
-    "timeWeek": 632,
-    "timeMonth": 632,
-    "timeYear": 632,
+    "time": 669,
+    "timeDay": 669,
+    "timeWeek": 669,
+    "timeMonth": 669,
+    "timeYear": 669,
     "dailyMinutesDown": {}
   }
 ]

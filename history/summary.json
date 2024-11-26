@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 672,
     "timeDay": 472,
-    "timeWeek": 677,
+    "timeWeek": 663,
     "timeMonth": 673,
     "timeYear": 672,
     "dailyMinutesDown": {
@@ -25,17 +25,19 @@
     "url": "https://leap.production.api.leapin.co/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/leap.production.api.leapin.co.ico",
     "slug": "leap-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 670,
-    "timeDay": 467,
-    "timeWeek": 686,
-    "timeMonth": 656,
+    "timeDay": 552,
+    "timeWeek": 680,
+    "timeMonth": 655,
     "timeYear": 670,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-26": 0
+    }
   }
 ]

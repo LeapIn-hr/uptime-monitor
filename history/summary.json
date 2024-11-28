@@ -25,18 +25,19 @@
     "url": "https://leap.production.api.leapin.co/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/leap.production.api.leapin.co.ico",
     "slug": "leap-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 669,
-    "timeDay": 763,
-    "timeWeek": 662,
-    "timeMonth": 652,
-    "timeYear": 669,
+    "time": 791,
+    "timeDay": 5881,
+    "timeWeek": 1696,
+    "timeMonth": 956,
+    "timeYear": 791,
     "dailyMinutesDown": {
+      "2024-11-28": 0,
       "2024-11-26": 9
     }
   }

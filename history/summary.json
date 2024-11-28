@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 672,
-    "timeDay": 673,
-    "timeWeek": 654,
-    "timeMonth": 671,
-    "timeYear": 672,
+    "time": 676,
+    "timeDay": 1029,
+    "timeWeek": 700,
+    "timeMonth": 681,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2024-11-19": 11,
       "2024-10-08": 13
@@ -27,15 +27,15 @@
     "slug": "leap-production",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 668,
-    "timeDay": 612,
-    "timeWeek": 659,
-    "timeMonth": 649,
-    "timeYear": 668,
+    "time": 669,
+    "timeDay": 763,
+    "timeWeek": 662,
+    "timeMonth": 652,
+    "timeYear": 669,
     "dailyMinutesDown": {
       "2024-11-26": 9
     }

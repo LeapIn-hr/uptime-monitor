@@ -4,9 +4,9 @@
     "url": "https://leap.staging.api.leapin.co/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/leap.staging.api.leapin.co.ico",
     "slug": "leap-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 640,
     "timeYear": 673,
     "dailyMinutesDown": {
+      "2025-02-18": 0,
       "2024-11-19": 11,
       "2024-10-08": 13
     }
@@ -25,7 +26,7 @@
     "url": "https://leap.production.api.leapin.co/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/leap.production.api.leapin.co.ico",
     "slug": "leap-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +38,7 @@
     "timeMonth": 638,
     "timeYear": 721,
     "dailyMinutesDown": {
+      "2025-02-18": 0,
       "2024-12-13": 32,
       "2024-11-28": 12,
       "2024-11-26": 9

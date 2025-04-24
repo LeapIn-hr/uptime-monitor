@@ -1,7 +1,7 @@
 url: https://leap.staging.api.leapin.co/health-check
 status: up
 code: 200
-responseTime: 299
-lastUpdated: 2025-04-23T23:07:01.162Z
+responseTime: 275
+lastUpdated: 2025-04-24T23:06:47.807Z
 startTime: 2024-09-10T03:46:24.477Z
 generator: Upptime <https://github.com/upptime/upptime>
